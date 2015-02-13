@@ -5,7 +5,7 @@ Building the package
 --------------------
 There should be a `cpack` (`choco pack`) tool that is package with Chocolatey. To build the nupkg file, do a `cpack` in the directory where `astyle.nuspec` is located. This should generate a `astyle-[version].nupkg` file.
 
-cpack in root directory
+`cpack` in root directory
 
 Testing the package
 -------------------
